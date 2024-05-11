@@ -1,0 +1,7 @@
+{
+  "name": "MantisAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
